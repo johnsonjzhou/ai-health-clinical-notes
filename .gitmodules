@@ -1,0 +1,3 @@
+[submodule "clinical_notes_corpus"]
+	path = clinical_notes_corpus
+	url = git@github.com:microsoft/clinical_visit_note_summarization_corpus.git
