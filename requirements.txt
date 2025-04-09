@@ -4,3 +4,4 @@ numpy
 pandas
 lmstudio
 mlx_lm
+rapidfuzz
