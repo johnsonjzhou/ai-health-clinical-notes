@@ -28,10 +28,10 @@ def read_tsv(file_path: str) -> pd.DataFrame:
 
 
 def get_concept_codes(
-    desc_path: str = "ncts_sct_rf2/Full/Terminology/sct2_Description_Full-en-au_AU1000036_20250331.txt",
-    rel_path: str = "ncts_sct_rf2/Full/Terminology/sct2_Relationship_Full_AU1000036_20250331.txt",
-    group: int = CONCEPT_GROUP.PRODUCT_NAME,
-    limit: int = None
+    desc_path: str        = "ncts_sct_rf2/Full/Terminology/sct2_Description_Full-en-au_AU1000036_20250331.txt",
+    rel_path : str        = "ncts_sct_rf2/Full/Terminology/sct2_Relationship_Full_AU1000036_20250331.txt",
+    group    : str        = CONCEPT_GROUP.PRODUCT_NAME,
+    limit    : int | None = None
 ) -> pd.DataFrame:
     """
     This function reads the description and relationship tables from
@@ -55,7 +55,7 @@ def get_concept_codes(
         - "term" being the full terminology description
     """
     # Load the tables from TSV files
-    descriptions_df = read_tsv(desc_path)
+    descriptions_df  = read_tsv(desc_path)
     relationships_df = read_tsv(rel_path)
 
     # Merge and filter for the required information
@@ -63,17 +63,17 @@ def get_concept_codes(
     # and remove duplicates.
     df = (
         pd.merge(
-            left=descriptions_df,
-            right=relationships_df,
-            left_on="conceptId",
-            right_on="sourceId",
-            suffixes=["_desc", "_rel"]
-        )
+            left     = descriptions_df,
+            right    = relationships_df,
+            left_on  = "conceptId",
+            right_on = "sourceId",
+            suffixes = ["_desc", "_rel"]
+            )
         .query(
             f"active_desc==1"
             f" & typeId_desc==900000000000003001" # Fully specified name
             f" & destinationId=={group}" # Filter by this group
-        )
+            )
         .drop_duplicates(subset="conceptId")
         [["conceptId", "term"]]
     )
