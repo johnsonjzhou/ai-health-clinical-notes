@@ -1,0 +1,201 @@
+ID,score,reason
+0,2,"The patient has a concerning brain mass and new seizures, indicating a potentially serious neurological condition requiring further investigation."
+1,1,"Family history of stroke and patient diagnosis of sleep apnea indicate potential stroke risk, warranting monitoring. "
+2,0,"Patient reports no pain or stiffness, indicating a stable musculoskeletal condition."
+3,0,No family history of relevant conditions; stable presentation.
+4,1,"Family history of fatal cardiovascular events (aneurysm, stroke) indicates potential risk, but no current symptoms reported."
+5,0,"No changes reported, indicating stable condition."
+6,2,"Free air suggests a serious, potentially life-threatening condition requiring immediate attention."
+7,0,"Family history includes DVT, leukemia, bone cancer, and colon cancer; no immediate concern."
+8,0,Routine check-up; no current health concerns mentioned.
+9,0,Routine allergy check; no current issue indicated.
+10,0,Initial assessment; no acute symptoms or immediate concerns are present.
+11,1,"Patient reports stomach uneasiness for a few days, but tests are normal. No acute symptoms."
+12,1,"Tobacco use is a risk factor, but no immediate health crisis is indicated. "
+13,0,Anxiety and hypertension are under control with ongoing management; no acute issues reported.
+14,1,"Patient expresses concern about liver health due to Tylenol use, requiring investigation. "
+15,0,Patient denies symptoms; no indication of acute issue requiring intervention.
+16,0,"Doctor inquires about signs of cyanosis and edema, but patient denies symptoms. No immediate concern."
+17,0,"Patient denies current or past health issues, indicating a stable condition."
+18,1,Patient reports fatigue linked to multiple chronic conditions; no immediate crisis indicated.
+19,1,"New rash and acne flare-up, despite previous treatment, warrants further investigation. "
+20,1,"Multiple chronic conditions (COPD, leg ulcers, back pain) with new symptom (toe numbness) and functional limitations warrant concern."
+21,1,"New chest pain, though not severe, warrants investigation due to its recent onset and potential cardiac concern."
+22,0,"No medical issues discussed; dialogue focuses on patient's lifestyle and history, indicating a stable condition."
+23,1,"Patient has pre-existing conditions (sinus, stroke) requiring monitoring, but no acute symptoms mentioned. "
+24,1,"Patient is being advised to modify diet for an existing condition, no immediate crisis."
+25,1,"Family history of arthritis and psoriasis suggests potential genetic predisposition, but no current symptoms reported."
+26,0,Routine follow-up with stable symptoms and preserved ejection fraction.
+27,1,"Multiple acute gastrointestinal symptoms (nausea, vomiting, diarrhea, fever) indicate a potentially serious infection requiring monitoring."
+28,0,"Patient discharged, indicating condition is stable or improving."
+29,2,"Confirmation of metastatic prostate cancer indicates disease spread, a serious condition."
+30,0,"Family history of osteoarthritis is noted, but no current symptoms or indication of worsening condition."
+31,1,"Right leg weakness persists for 6 months, with mild tingling/numbness and elevated CK, despite no progression or incontinence. Requires further investigation."
+32,0,"Poison Control assessment indicates likely nontoxic ingestion, no immediate concern."
+33,0,No current risk factors mentioned; stable condition based on provided information.
+34,0,"Stable condition; diabetes well-controlled, other conditions managed."
+35,1,"Patient reports allergic reaction to Bactrim (nausea/vomiting) and adhesive tape, indicating a worsening condition."
+36,1,"Patient reports ankle pain after a fall, but no immediate need for hospitalization. "
+37,2,Polysubstance abuse with oxycodone and other street drugs indicates significant risk and potential for severe health consequences.
+38,2,"Persistent severe pain (10/10), limited range of motion, and minimal relief from medication indicate a worsening condition."
+39,0,"Patient reports no changes since last visit, indicating stable condition."
+40,0,Resolved C. diff colitis and stable hypertension/hyperlipidemia indicate a stable condition.
+41,1,"Fever and congestion indicate a new illness, warranting monitoring but not immediate hospitalization."
+42,2,"Presence of green/grey sputum and difficulty breathing warrants investigation, indicating a potentially worsening condition."
+43,0,No pathology found; condition is stable and reassuring.
+44,1,"Multiple chronic conditions (hypertension, obesity, blood clots) warrant monitoring but don't indicate acute crisis."
+45,1,"NG tube for decompression suggests a serious underlying issue, but patient reports slight improvement without hospitalization."
+46,1,"Congestion is chronic, ingrown toenail resolving; no immediate hospitalization needed."
+47,1,"Fever, poor feeding, and congestion in a 2-month-old warrant investigation; potential for dehydration."
+48,1,"Headache onset linked to stress, no indication of severe symptoms or need for hospitalization."
+49,1,"Significant hip pain with progression of degenerative changes despite prior injections and pain medication, requiring orthopedic consultation. "
+50,1,"New injury exacerbating chronic condition, requiring evaluation but not immediate hospitalization."
+51,1,"Patient reports no current medications, requiring further assessment for potential risks."
+52,0,Routine allergy check; no current issue indicated.
+53,1,"Patient's recent loss and living alone indicate potential for emotional distress, requiring monitoring. "
+54,0,"Stable condition with controlled diabetes and improving sinusitis, but high cholesterol needs monitoring."
+55,1,Persistent diarrhea for weeks indicates a worsening condition requiring medical evaluation.
+56,0,Patient denies visual problems; no objective worsening reported.
+57,1,"Reports of disorientation and memory lapses warrant specialist evaluation, indicating a potentially concerning cognitive issue."
+58,0,"Patient reports stable condition with a follow-up test, indicating monitoring but no acute issues."
+59,0,"Family history of asthma is present, but patient reports no current symptoms or other health issues."
+60,0,Normal test results and stable EKG indicate a stable condition.
+61,1,"Medication initiation suggests a new or worsening condition requiring monitoring, but not immediate hospitalization."
+62,2,"Airway compromise requiring intubation and surgery indicates a severe, life-threatening condition."
+63,1,"Patient reports weight gain despite effort, reverted to an unhealthy diet, and seeks guidance.  Indicates a need for re-evaluation and intervention."
+64,1,"New onset shortness of breath, worsening with exertion, warrants investigation via CT scan."
+65,0,"Patient reports feeling 'much better' after chemotherapy, suggesting improvement. "
+66,1,"Diarrhea, possibly C. difficile, is resolving; stable condition with prior known conditions managed."
+67,1,"Chronic, persistent back pain with radiating symptoms unresponsive to common treatments, indicating ongoing significant discomfort and functional limitations. "
+68,0,Basic demographic and lifestyle questions; no medical issues presented.
+69,0,Inquiry about past surgery doesn't indicate current health status; no immediate concern.
+70,1,"Multiple medications, including opioids (Morphine, Darvocet), suggest potential for adverse effects and warrant monitoring."
+71,0,"Patient is well-developed, nourished, and shows no acute distress. "
+72,0,Routine history taking; no indication of current health issue or concern.
+73,1,"Right upper quadrant pain and decreased appetite suggest a concerning issue requiring further investigation, but not immediate hospitalization."
+74,2,"Patient reports worsening pain, instability, and malalignment despite prior surgery, requiring further intervention."
+75,0,Stable condition with manageable knee pain; no acute issues reported.
+76,0,"Normal finding, no concern raised; stable condition."
+77,0,"Patient reports positive changes with a new diet, indicating stable condition."
+78,0,Stable condition with managed history; no acute symptoms reported.
+79,1,"Positive prostate cancer and urinary incontinence are concerning, but no acute issues mentioned."
+80,1,"Palm protector suggests potential for self-harm or aggression, requiring monitoring but not immediate hospitalization."
+81,1,"Patient is unemployed for months and smokes, indicating potential worsening of well-being but no immediate crisis."
+82,0,Routine follow-up for known conditions; no acute issues reported.
+83,0,"Mild soreness is a normal post-vaccination side effect, indicating a stable condition."
+84,0,"Patient reports improvement with medication and reduced symptoms, indicating a resolving reaction."
+85,0,Inquiry about past surgery doesn't indicate current condition severity.
+86,0,"Routine psychiatric screening; no current symptoms reported, indicating stable condition."
+87,1,"Possible illicit drug use raises concern, requiring further investigation and potential intervention."
+88,0,"Patient reports no symptoms across all systems, indicating a stable condition."
+89,1,Patient on disability with minimal ADLs and unknown drug screen suggests potential health concerns requiring investigation.
+90,1,"Past severe injury, though not hospitalized, indicates potential for recurring risk."
+91,1,Worsening shortness of breath with ambulation in an elderly patient suggests a concerning decline.
+92,1,"Persistent migraine, prompting referral for further investigation, but no immediate hospitalization needed."
+93,0,"Patient denies symptoms, no concerning findings reported; stable condition."
+94,0,"Patient has a known, recently repaired femur fracture, indicating a history of significant trauma."
+95,1,"Stable condition with new musculoskeletal pain, manageable with medication and further investigation if needed."
+96,0,Routine allergy check; no current health concern indicated.
+97,1,"Back pain after a party, possibly related to alcohol consumption, but not requiring immediate medical intervention."
+98,1,"Borderline elevated cholesterol with hypertension warrants monitoring, but no acute issues."
+99,0,"Patient denies symptoms, indicating stable condition."
+100,2,"The infant presents with respiratory distress (irregular breathing, retractions, respiratory pauses), high fever, poor feeding, and vomiting, indicating a serious condition requiring medical attention. "
+101,0,Patient reports only over-the-counter supplements; no indication of a medical issue.
+102,2,"Presence of a buttock abscess indicates infection, potentially requiring medical intervention."
+103,1,"Patient reports fatigue, insomnia, and potential sleep apnea; symptoms are manageable with OTC medication but impacting quality of life. "
+104,1,"Patient has had multiple surgeries (foot, knee, abdominal), indicating a complex medical history but no immediate crisis."
+105,0,"Routine physical; no new issues reported, condition stable."
+106,0,Routine allergy check; no indication of current health issue.
+107,1,"Lump growing larger and becoming more tender, causing pain with deep breaths, warrants investigation. "
+108,1,"Purulent rhinitis, probable sinusitis & serous otitis with fluid buildup requiring antibiotics and follow-up."
+109,0,Routine allergy check; no current health concerns indicated.
+110,1,"New symptoms (pauses, staring, perioral cyanosis) warrant investigation due to potential neurological concern, despite no convulsions. Low Keppra dose is also concerning."
+111,1,"Patient admits to family history of alcohol abuse, indicating potential for ongoing ETOH issues."
+112,1,Unclear medication details raise concern; potential for adverse drug interaction warrants monitoring.
+113,2,"Severe allergic reaction (dizziness, vomiting) to sulfa drugs indicates a serious, potentially life-threatening situation."
+114,0,"Routine check-up; no current issues reported, family history discussed."
+115,1,"Patient reports widespread joint pain for weeks, minimally relieved by over-the-counter medication. "
+116,1,"Headaches are severe and uncontrolled with OTC medications, warranting further investigation."
+117,0,"First pregnancy is a normal, expected situation; no indication of current health concern."
+118,0,Patient denies substance use; no current health concerns are indicated.
+119,0,"Social history; no medical issues mentioned, stable condition."
+120,1,"Patient reports persistent numbness/tingling, impacting daily life and sleep, but no mention of acute distress or need for immediate medical intervention. "
+121,1,"Patient discontinued medication due to adverse effect (diarrhea), indicating a worsening condition requiring management."
+122,1,"Empty P-bag and stool in colon are noted, but child is acting normally with no infection."
+123,0,"Patient reports no medical issues or family history, and denies substance use. Condition is stable."
+124,1,"Patient condition is stable, but history cannot be obtained, indicating potential instability."
+125,0,"Serotonin syndrome was diagnosed and treated, with significant improvement. The patient is stable and improving."
+126,1,"Patient reports recurring seizure-like symptoms (body aches, confusion) and concerns about safety due to living alone. Video EEG is planned for diagnosis."
+127,1,NG tube indicates significant issue; patient reports improvement but requires monitoring.
+128,2,Significant hematuria with decreased urine output warrants immediate evaluation for potential obstruction or complication. 
+129,1,"Patient reports new pain, prompting investigation of existing renal issues and hypertension. "
+130,1,"Foreign body in the eye requires medical attention, potentially escalating."
+131,2,"Febrile seizures require immediate assessment, potentially indicating a serious neurological event."
+132,0,Minimal alcohol consumption; no significant risk factors identified.
+133,0,"Patient denies substance abuse and smoking, indicating a low risk of related complications."
+134,0,"Routine medication review; no immediate concerns raised, condition stable."
+135,1,"Sudden pop and splinting suggest a significant injury requiring orthopedic evaluation, but not immediate hospitalization."
+136,1,"New symptoms (obsessive cleaning, toy collecting) and mood issues persist despite medication change; requires ongoing monitoring and intervention. "
+137,0,Routine follow-up with normal EKG suggests stable condition post-surgery.
+138,0,Routine chart update; no indication of current health concern or change in condition.
+139,1,"New atopic eczema flare-up, previously controlled, now worsening with ineffective treatment and potential irritation from added oil. No immediate hospitalization needed."
+140,0,Routine allergy check; no current health concern indicated.
+141,1,"Patient has an acute intestinal illness, causing discomfort but no systemic signs. Hepatitis C is stable and managed; liver function normal. "
+142,1,"Patient reports weakness and shakiness, indicating a new/worsening condition requiring monitoring."
+143,1,Patient expresses desire for cancer treatment and reports a strong family history of cancer.
+144,0,"Patient reports strong social support and denies substance use, indicating a stable condition."
+145,1,"Family history of metastatic breast and bone cancer raises concern, but no acute symptoms reported."
+146,1,"Refracture requiring surgical intervention and nail removal indicates a worsening condition, but not requiring immediate hospitalization. "
+147,1,"Patient takes multiple medications (diabetes, blood pressure, aspirin) requiring monitoring."
+148,0,"Minor concern about foreskin, otherwise healthy newborn. "
+149,1,"Family history of stroke and cardiovascular issues, plus significant smoking history, indicates elevated risk."
+150,1,"Intermittent fever for 5 days, though currently improving, warrants monitoring due to age and recent antibiotic use. "
+151,0,"Past surgery (lumbar diskectomy) is noted, but no current issues are reported."
+152,0,Stable condition with existing management; pain is intermittent and controlled with ibuprofen.
+153,0,"Family history of diabetes is noted, but no current symptoms or health concerns are mentioned."
+154,2,"Patient reports severe, widespread pain and heroin use linked to chronic injuries, indicating a worsening condition."
+155,2,"Red streaks suggest potential infection, warranting further investigation beyond outpatient care."
+156,0,Routine history taking; no current health concerns are indicated.
+157,0,Routine social history; no indication of current health issues or need for intervention.
+158,0,Normal x-ray findings; no abnormalities or wear and tear detected.
+159,1,"Chronic, worsening pain and desire for surgery indicate a significant impact on quality of life."
+160,0,"Routine check-up for a stable, long-term condition; no acute issues mentioned."
+161,1,"Past tonsillectomy indicates a history of recurrent infections, suggesting a potentially ongoing issue."
+162,0,The patient is seeking cosmetic procedures for wrinkles; no medical concern indicated.
+163,1,"Chronic hip pain worsening over 2 years, now bilateral, impacting daily activities. "
+164,1,"Patient reports failed conservative treatment and desires surgery, indicating worsening condition."
+165,1,"Patient confirms existing hypertension, a chronic condition requiring management."
+166,2,"Sudden onset of vision loss, neurological symptoms, unresponsiveness necessitate urgent investigation."
+167,1,"Family history of depression and nervous breakdown raises concern, but no current symptoms reported."
+168,1,"Patient experienced adverse drug reaction (rash/hives) leading to medication discontinuation, but symptoms have resolved. Recurring E. coli infections are managed without acute issues."
+169,0,Routine medication review; no immediate concerns raised about acute worsening.
+170,1,"Recurrent HA with worsening symptoms (blurred vision, nausea, vomiting) and weight loss suggest a concerning, ongoing issue requiring further investigation. "
+171,0,"Stable condition; back pain is a known issue, but patient is active and has support."
+172,0,No indication of current medical issue; dialogue is unrelated to patient's health.
+173,1,Exertional shortness of breath indicates a new or worsening condition requiring monitoring.
+174,1,"Family history reveals multiple deaths from cancer, mesothelioma, and pneumonia, indicating potential genetic predisposition or environmental risk."
+175,2,Patient reports allergy to the prescribed medication (Cephalexin).
+176,0,"Patient reports past smoking, but currently abstinent; no current health concerns mentioned."
+177,1,"Progressive urge incontinence despite prior treatment and urodynamic findings, impacting quality of life. "
+178,0,Patient discloses known asthma; no current symptoms or exacerbation mentioned.
+179,1,"New diabetes diagnosis and financial barriers to treatment, despite HIV being well-managed. Requires ongoing monitoring and management."
+180,0,"Patient denies any known medical conditions, indicating a stable state."
+181,1,"Family history of Huntington's, one brother newly started treatment, indicates potential progression."
+182,0,Confirmation of no allergies; no current health issues mentioned.
+183,0,Patient confirms no drug allergies; no current health concerns mentioned.
+184,0,Basic demographic and lifestyle information; no medical issues presented.
+185,1,"Patient expresses concern about inherited conditions due to parental deaths, but currently reports no acute symptoms."
+186,0,Stable condition with controlled hypertension and negative intracranial findings.
+187,2,"Patient presents with acute dizziness, tachycardia, and hypertension requiring immediate evaluation."
+188,1,"Significant glucose variability, a hypoglycemic event requiring intervention, and a high 14-day average indicate worsening condition without hospitalization."
+189,1,"Patient recently discontinued aspirin, indicating a potential change in medication regimen requiring monitoring."
+190,0,"Routine eye, ear, nose, and mouth exam; no abnormalities detected. "
+191,1,"Relapse and heavy smoking exacerbate existing chronic bronchitis, posing a health risk."
+192,0,Stable condition with manageable constipation and weight monitoring; no acute issues.
+193,0,Routine data collection; no clinical information about current health status is provided.
+194,0,Information gathering; no medical issues presented. 
+195,1,"Elevated white count and persistent diarrhea despite treatment indicate ongoing, unresolved infection."
+196,0,Patient denies common symptoms; condition appears stable.
+197,1,"Patient has incisional tenderness, a known post-surgical issue, but is stable and ambulatory. "
+198,0,Patient denies any major medical conditions; no current issues indicated.
+199,1,"Patient lacks Pneumonia vaccination, a potential risk factor. "

@@ -1,0 +1,101 @@
+ID,score,reason
+0,1,"New fall with increased pain after a pre-existing condition, but no mention of immediate emergency. "
+1,1,"Itchy rash is present, but no systemic symptoms or distress reported. "
+2,0,"Patient denies new conditions or symptoms, indicating stability."
+3,1,"Accutane has potential severe side effects; patient reports some improvement, but monitoring is needed."
+4,1,"Patient denies confusion and hallucinations despite doctor's inquiry, suggesting a potentially developing issue requiring further investigation. "
+5,1,Premature birth (32 weeks) and incubator stay indicate potential instability.
+6,0,"Patient denies prior surgery; no current issues indicated, suggesting a stable condition."
+7,1,Recent fall and severe back pain warrant investigation for potential injury.
+8,1,History of IV drug abuse and ongoing substance abuse treatment suggest potential for relapse and instability.
+9,1,"Patient reports increasing pain and recurrence of bunion deformity, impacting daily life due to work.  No immediate hospitalization needed but requires management."
+10,0,"Normal birth, no complications, and passed hearing screening indicate a stable condition."
+11,0,No indication of acute illness or worsening condition; routine information gathering.
+12,0,"Patient is returning home, indicating a resolution or improvement in their condition."
+13,1,"History of methamphetamine use, though denied currently, warrants monitoring. Smoking is also a concern."
+14,1,"Progressive sensory symptoms (numbness, burning) affecting extremities and clumsiness, significantly impacting daily function and sleep, despite medication.  Requires further investigation and management."
+15,0,"Patient reports no complaints during a routine follow-up, indicating a stable condition."
+16,1,"New left hip/shoulder pain and lower extremity swelling warrant investigation, indicating a worsening condition."
+17,0,"Routine check-up, no reported symptoms or concerns."
+18,1,"Patient reports worsening lightheadedness and balance issues, potentially linked to increased metoprolol, despite prior vertigo."
+19,1,"Patient is on a course of antibiotics, indicating an existing infection; no immediate crisis is apparent."
+20,1,Frequent flyer suggests unstable mental health and/or physical health requiring ongoing intervention.
+21,0,Initial assessment gathering patient history; no immediate clinical concerns are evident.
+22,1,"Migraine symptoms (photophobia, nausea) are present and being treated with prescription medication, requiring a day off."
+23,1,Antibiotics Cipro and Flagyl suggest a potentially serious infection requiring monitoring.
+24,1,"Patient describes locking thumb, consistent with trigger finger; surgery planned but not yet performed."
+25,0,"Patient is actively managing a chronic condition (likely diabetes) with lifestyle changes and seeking information, indicating stable condition."
+26,0,"No disease history reported, indicating a stable condition."
+27,0,"Patient history includes past surgeries (colon cancer, appendectomy, glaucoma, cholecystectomy) but no current issues."
+28,0,"Patient's surgical history is known and unremarkable, indicating a stable condition."
+29,1,"Patient reports potential cerebrovascular disease, a serious condition, warranting further investigation. "
+30,2,"Patient reports severe withdrawal symptoms (body aches, cold) and recent heroin/cocaine use, indicating a high risk of overdose and potential medical complications."
+31,0,"Patient reports no illness in family or themselves, indicating a stable condition."
+32,1,"Family history of multiple cancers and suicide suggests increased risk, but patient is currently healthy."
+33,1,"Patient is receiving outpatient therapy and medication for a UTI, indicating a managed condition."
+34,0,"Family history of stomach cancer and cancer-related deaths indicates potential genetic predisposition, but no current health issue is described."
+35,0,No past medical history and described as generally healthy indicates a stable condition.
+36,1,"Abnormal kidney and thyroid levels, plus sinus tachycardia warrant further investigation."
+37,1,"Patient has lingering symptoms and is unaware of ongoing treatment (stent), indicating unresolved issues despite initial improvement. "
+38,1,Family history of chronic conditions and Parkinson's suggests potential for similar issues in the patient.
+39,2,Significant burn requiring immediate medical attention and potential treatment.
+40,0,"Patient is being discharged, indicating stable condition and no immediate concerns."
+41,1,"New pain (shoulder & back) and urinary frequency warrant investigation, but no immediate crisis. "
+42,0,Patient reports improvement and is following recommendations; no acute issues.
+43,1,"Localized swelling is present, but no systemic symptoms like breathing difficulty or anaphylaxis.  Requires monitoring but not immediate hospitalization."
+44,0,"Pain managed with medication, no adverse effects reported; condition improved."
+45,1,"Illicit drug use (weed) indicates a potential health risk, warranting monitoring."
+46,1,"Patient significantly reduced smoking, but history of heavy smoking warrants monitoring. "
+47,2,Antibiotic initiation suggests a potentially serious infection requiring treatment.
+48,0,"Patient denies all concerning symptoms; routine check-up, stable condition."
+49,0,Normal systems review; no new or worsening condition reported.
+50,0,Plan involves preventative measures; no immediate crisis or hospitalization indicated.
+51,1,"Substance abuse requires professional help; referral indicates a need for intervention, but no immediate crisis."
+52,0,Patient denies substance use; no current health concerns indicated.
+53,1,"Symptoms (otalgia, headache, sinus pressure, jaw pain) persist for 3 weeks, warranting investigation but not immediate hospitalization."
+54,0,"Psychiatrist reports patient is doing well, indicating stable mental health."
+55,1,"Chronic headache duration (6 months) warrants investigation, but no acute distress reported."
+56,1,"Patient reports cancer, gout, blood clots, asthma, and GI tumors in family; potential for other conditions. "
+57,1,"Patient reports no medications or OTC drugs, indicating a potentially new or worsening condition requiring further investigation."
+58,0,Routine family history inquiry; no current health concerns indicated.
+59,2,"Multiple chronic conditions (AFib, CVAs, PVD, CHF, bowel ischemia) and current subtherapeutic Coumadin necessitate careful monitoring, indicating a potential for serious complications. The presence of possible blood in stool also raises concern."
+60,0,"Past surgeries are mentioned, but no current issues or acute problems are indicated."
+61,1,"Multiple skin conditions (hay fever, eczema, hives, sinus) are present, requiring medical attention but not immediate hospitalization."
+62,2,"Worsening upper extremity weakness and radicular pain, despite physical therapy, indicates persistent neurological deficits. The patient's fear suggests significant functional impact."
+63,1,"Focal shoulder pain, likely radiculopathy, is present but not severe enough for hospitalization. "
+64,1,History of major trauma surgery indicates potential for complications or ongoing issues.
+65,2,"Multiple lacerations on the hand are actively bleeding despite initial intervention, requiring further medical evaluation and potential treatment."
+66,1,"Multiple skin conditions (hay fever, eczema, hives) are present, causing patient distress, but no immediate hospitalization is indicated."
+67,1,Lack of medical history makes severity unclear; further investigation needed.
+68,0,"Patient had a successful gallbladder removal with no complications, indicating a stable condition."
+69,0,Patient denies all concerning symptoms; condition appears stable.
+70,0,Routine allergy check; no current health concerns indicated.
+71,1,"Persistent nausea/vomiting and new headaches/dizziness warrant further investigation, but no immediate hospitalization is indicated."
+72,0,"Patient discloses pre-existing conditions (hypertension, depression, osteoporosis) during routine check-up. No acute issues mentioned."
+73,0,"Basic history gathering; no current medical issues are mentioned, indicating a stable condition."
+74,1,"Patient reports irregular periods without bleeding, raising concern for underlying hormonal imbalance needing investigation."
+75,1,"Serous otitis diagnosed, treated with antibiotics; eczema is a known condition. No immediate hospitalization needed."
+76,1,"Patient has known type 2 diabetes, requiring ongoing management but not immediate hospitalization."
+77,0,Inquiry about family history; no current symptoms or concerns are expressed.
+78,0,"Past substance abuse history (smoking) is noted, but patient reports quitting years ago. No current concerning symptoms mentioned."
+79,1,"Patient is on multiple medications with only 'some relief', suggesting ongoing symptoms."
+80,0,Basic history question; no indication of current condition severity.
+81,1,"Patient has severe, refractory osteoarthritis requiring surgical intervention; no immediate hospitalization but significant functional impact."
+82,0,"Doctor confirms systems are fine, patient reports feeling well. "
+83,1,Patient experienced significant discomfort requiring strong medication and reported improvement.
+84,1,"Symptoms (diarrhea, vomiting, abdominal pain) indicate a gastrointestinal issue requiring medical attention."
+85,0,Inquiry about family history; no current symptoms or concerns are expressed. 
+86,1,"Presence of suicidal ideation, though without immediate plans, warrants careful monitoring and potential intervention."
+87,1,"Non-healing wound is concerning, indicating a potential complication requiring evaluation."
+88,0,"Patient denies medication intolerance, indicating stable condition."
+89,1,"Elbow and ankle pain from a fight, with a head injury, warrants medical evaluation but doesn't require immediate hospitalization."
+90,0,Patient denies substance use; no current health concerns are indicated.
+91,0,Normal chest exam and no abnormal findings indicate a stable condition.
+92,0,Patient confirms existing migraine history; no current symptoms or changes reported.
+93,0,Routine medication check; no indication of acute problem or worsening condition.
+94,0,No changes reported; stable condition based on review of history.
+95,0,Successful transition to permanent pacemaker indicates stable condition post-procedure.
+96,1,"Nausea, vomiting, and decreased appetite indicate a new condition requiring monitoring, but not immediate hospitalization."
+97,1,"Sinus tachycardia is present, but without ST changes, it's not immediately life-threatening."
+98,0,"Immunizations are current, indicating no immediate health concerns."
+99,1,Stable condition with preventative measures; potential for worsening if GI bleed occurs.
